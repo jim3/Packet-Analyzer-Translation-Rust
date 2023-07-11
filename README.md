@@ -1,2 +1,3 @@
 # Packet-Analyzer-Translation-Rust
-A learning exercise in order to become more familiar with the Rust programming language
+
+Translation of the javascript packet anaylzer program...mainly to become more familar with Rust.
